@@ -1,0 +1,69 @@
+\documentclass[russian,utf8,pointsubsection,emptystyle
+,reduceheight=5mm
+]{eskdtext}
+\usepackage{eskdchngsheet}
+\usepackage{eskdplain}
+\usepackage[T2A]{fontenc}
+\usepackage{amstext}
+\usepackage{amsmath}
+\usepackage{listings}
+\usepackage{wrapfig}
+\usepackage{subfig}
+
+\ESKDdepartment{Московский Государственный Университет им.~М.В.~Ломоносова}
+\ESKDcompany{Факультет Вычислительной Математики и Кибернетики
+
+Кафедра Автоматизации Систем Вычислительных Комплексов}
+\ESKDtitle{Разработка и реализация многопрофильной системы фильтрации спама на основе методов машинного обучения}
+\ESKDauthor{Петров Александр Владимирович}
+\ESKDdate{2011/04/07}
+\renewcommand{\ESKDtheTitleFieldII}{
+\begin{center}
+  \includegraphics{msu}
+\end{center}
+}
+
+\renewcommand{\ESKDtheTitleFieldIV}{
+\parbox[r][4cm]{4cm}{}
+
+\ESKDtheTitle}
+\renewcommand{\ESKDtheTitleFieldVIII}{
+\parbox[r][2.5cm]{5cm}{}
+
+\begin{flushright}
+  \parbox[r]{7cm}{
+    \normalsize
+    \ESKDtheAuthor
+
+    Группа 522
+
+    кафедра АСВК
+
+    \textbf{Научный руководитель}
+
+    Герасёв Александр Витальевич
+  }
+\end{flushright}
+
+}
+\renewcommand{\ESKDtheTitleFieldX}{Москва \ESKDtheYear}
+
+\usepackage[unicode]{hyperref}
+\addtolength{\textwidth}{-0.5cm}
+
+\begin{document}
+\maketitle
+\include{annotation}
+\tableofcontents
+
+\include{introduction}
+\include{task}
+\include{review}
+\include{research}
+\include{practical}
+\include{conclusion}
+\include{appendix}
+\include{biblio}
+
+\end{document}
+% vim:tw=70
