@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="statmethod.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3897"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <filter
+       inkscape:collect="always"
+       id="filter5112">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.404061"
+         id="feGaussianBlur5114" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="296.17854"
+     inkscape:cy="775.15442"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1278"
+     inkscape:window-height="779"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3765"
+       transform="matrix(0.36407012,0,0,0.32123131,-4.8899476,16.210837)"
+       style="stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:none;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3765-4"
+       transform="matrix(0.36407012,0,0,0.32123131,45.946857,56.743093)"
+       style="stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-1"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:none;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3765-2"
+       transform="matrix(0.36407012,0,0,0.32123131,111.76417,15.301951)"
+       style="stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-0"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:none;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3765-0"
+       transform="matrix(0.36407012,0,0,0.32123131,-0.362771,141.57102)"
+       style="fill:#646464;fill-opacity:1;stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-85"
+         style="fill:#646464;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-06"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:#646464;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3765-0-5"
+       transform="matrix(0.36407012,0,0,0.32123131,108.7337,141.57102)"
+       style="fill:#646464;fill-opacity:1;stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-85-9"
+         style="fill:#646464;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-06-9"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:#646464;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3765-0-1"
+       transform="matrix(0.36407012,0,0,0.32123131,45.094093,162.78422)"
+       style="fill:#646464;fill-opacity:1;stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-85-4"
+         style="fill:#646464;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-06-91"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:#646464;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 249.50768,72.514214 336.3808,105.84925"
+       id="path3885"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend);display:inline"
+       d="m 246.47722,193.73252 88.89343,-43.43656"
+       id="path3887"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4699"
+       width="158.59395"
+       height="88.893425"
+       x="353.55341"
+       y="82.615738"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="383.85794"
+       y="131.10307"
+       id="text4701"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4703"
+         x="383.85794"
+         y="131.10307">Алгоритм</tspan></text>
+    <g
+       id="g3765-0-9"
+       transform="matrix(0.36407012,0,0,0.32123131,458.24648,244.60657)"
+       style="fill:#646464;fill-opacity:1;stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-85-6"
+         style="fill:#646464;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-06-0"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:#646464;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3765-0-9-8"
+       transform="matrix(0.36407012,0,0,0.32123131,342.07894,248.64718)"
+       style="fill:#646464;fill-opacity:1;stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-85-6-5"
+         style="fill:#646464;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-06-0-0"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:#646464;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3765-0-9-5"
+       transform="matrix(0.36407012,0,0,0.32123131,387.5358,323.39848)"
+       style="fill:#646464;fill-opacity:1;stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-85-6-2"
+         style="fill:#646464;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-06-0-8"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:#646464;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3765-3"
+       transform="matrix(0.36407012,0,0,0.32123131,340.32042,417.73403)"
+       style="stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-17"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:none;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3765-4-8"
+       transform="matrix(0.36407012,0,0,0.32123131,391.15723,458.26629)"
+       style="stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-8-9"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-1-4"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:none;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3765-2-1"
+       transform="matrix(0.36407012,0,0,0.32123131,456.97454,416.82514)"
+       style="stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-1-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-0-4"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:none;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4699-4"
+       width="158.59395"
+       height="88.893425"
+       x="178.29193"
+       y="378.59042"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="208.59647"
+       y="427.07776"
+       id="text4701-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4703-7"
+         x="208.59647"
+         y="427.07776">Алгоритм</tspan></text>
+    <g
+       id="g3765-3-8"
+       transform="matrix(0.36407012,0,0,0.32123131,19.84028,329.4594)"
+       style="fill:#afafaf;fill-opacity:1;stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-5-9"
+         style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-17-9"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3765-3-8-0"
+       transform="matrix(0.36407012,0,0,0.32123131,22.870738,364.81473)"
+       style="fill:#afafaf;fill-opacity:1;stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-5-9-2"
+         style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-17-9-6"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3765-3-8-7"
+       transform="matrix(0.36407012,0,0,0.32123131,3.6778393,389.05839)"
+       style="fill:#afafaf;fill-opacity:1;stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-5-9-6"
+         style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-17-9-5"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3765-3-8-6"
+       transform="matrix(0.36407012,0,0,0.32123131,-16.525211,353.70305)"
+       style="fill:#afafaf;fill-opacity:1;stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-5-9-8"
+         style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-17-9-3"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3765-3-8-04"
+       transform="matrix(0.36407012,0,0,0.32123131,14.789517,408.2513)"
+       style="fill:#afafaf;fill-opacity:1;stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-5-9-9"
+         style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-17-9-65"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3765-3-8-1"
+       transform="matrix(0.36407012,0,0,0.32123131,-3.3932285,435.52541)"
+       style="fill:#afafaf;fill-opacity:1;stroke-width:5.8482852;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="40.933609"
+         x="44.285713"
+         height="180.00002"
+         width="268.57144"
+         id="rect2989-5-9-21"
+         style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763-17-9-0"
+         d="m 45,40.93361 c 130,82.85714 130,82.85714 130,82.85714 C 313.57143,40.219324 312.85714,41.647896 312.85714,41.647896"
+         style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:5.8482852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 98.99495,422.027 72.73098,1.01015"
+       id="path5120"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 295.97469,365.45845 338.4011,342.22494"
+       id="path5304"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 309.10668,483.6463 52.52793,22.22336"
+       id="path5488"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 6.0609153,251.31121 C 600.03061,250.30106 600.03061,250.30106 600.03061,250.30106 l 0,0 0,0"
+       id="path5674"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/firexel/Dropbox/Petrov-text/prezentation/img/statmethod.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

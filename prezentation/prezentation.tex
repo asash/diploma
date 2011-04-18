@@ -1,0 +1,93 @@
+\documentclass{beamer}
+\usepackage[english,russian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amssymb,amsfonts,amsmath}
+\newtheorem{define}{Определение}
+% Стиль презентации
+\usetheme{Rochester}
+\usecolortheme{crane}
+\begin{document}
+\title{Разработка и реализация многопрофильной системы фильтрации спама на основе методов машинного обучения}
+\author{Александр Петров}
+\institute[Московский Государственный Университет имени М. В. Ломоносова]{
+        Московский Государственный Университет имени М. В. Ломоносова\\
+        Факультет Вычислительной математики и кибернетики
+    }
+\date{Москва, 2011}
+% Создание заглавной страницы
+\frame{\titlepage}
+
+%на этом слайде нужно рассказать о том что задача актуальна давно и решения не предвидится
+\begin{frame}{Задача фильтрации спама}
+    \begin{define}
+        \textbf{Спам} - нежелательная почта. Та почта, которую пользователь не хотел бы получить даже зная о факте ее отправки.
+    \end{define}
+\end{frame}
+
+\begin{frame}{Статистический подход к фильтрации спама}
+\begin{center}
+    \includegraphics[width=7cm]{img/statmethod}
+\end{center}
+\end{frame}
+
+\begin{frame}{Персонифицированный и неперсонифицированный подходы}
+\begin{center}
+    \includegraphics[width=7cm]{img/pers_nopers}
+\end{center}
+\end{frame}
+
+\begin{frame}{Многопрофильный подход}
+\begin{figure}[h]
+\begin{center}
+    \includegraphics[width=5cm]{img/multiprofile}
+\end{center}
+    Для классификации используются как собственные письма, так и письма от других пользователей
+\end{figure}
+\end{frame}
+
+\begin{frame}{Метод опорных векторов}
+\begin{figure}[h]
+\begin{center}
+    \includegraphics[width=5cm]{../img/svm}
+\end{center}
+    Разделяющая гиперплоскость максимально удалена от объектов обоих классов
+\end{figure}
+\end{frame}
+
+
+\begin{frame}{dspam}
+    \begin{itemize}
+        \item Свободный
+        \item Быстрый
+        \item Многопользовательский
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Схема работы модифицированного dspam}
+\begin{figure}[h]
+\begin{center}
+    \includegraphics[width=7.5cm]{../img/working_scheme}
+\end{center}
+\end{figure}
+\end{frame}
+
+\begin{frame}{Результаты тестирования}
+\begin{figure}[h]
+\begin{center}
+    \includegraphics[width=7.5cm]{img/graphic}
+\end{center}
+    Соотношение коэффицента верных обнаружений и коэффицента ложных срабатываний
+\end{figure}
+
+\end{frame}
+
+\begin{frame}{Тестирование многопрофильного режима}
+\end{frame}
+
+
+
+
+\begin{frame}
+\center{Ворпосы?}
+\end{frame}
+\end{document}
