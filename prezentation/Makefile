@@ -1,4 +1,4 @@
-prezentation.pdf: *.tex
+prezentation.pdf: *.tex img/*.png ../img/*.png
 	pdflatex prezentation.tex
 	pdflatex prezentation.tex
 
