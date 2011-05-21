@@ -1,4 +1,4 @@
-diplom.pdf: *.tex
+diplom.pdf: *.tex img/*.png
 	pdflatex diplom.tex
 	pdflatex diplom.tex
 clean:
